@@ -44,5 +44,7 @@ coverage_report
 .autotools
 /cmake-build*
 /.settings
+/.settings*
 Debug*
 Release*
+
