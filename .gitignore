@@ -45,6 +45,7 @@ coverage_report
 /cmake-build*
 /.settings
 /.settings*
+language.settings.xml
 Debug*
 Release*
 
