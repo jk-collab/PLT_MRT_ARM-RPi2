@@ -7,7 +7,7 @@
  * @date   2016/04/04
  *
  */
-#include "Complex.h"
+#include "Complex.cpp"
 #include "gtest/gtest.h"
 
 namespace {
