@@ -46,6 +46,7 @@ coverage_report
 /.settings
 /.settings*
 language.settings.xml*
+language.settings.xml
 Debug*
 Release*
 
